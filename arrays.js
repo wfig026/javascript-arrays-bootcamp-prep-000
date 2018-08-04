@@ -8,3 +8,7 @@ chocolateBars = [
 function addElementToBeginningOfArray() {
   
 }
+
+function destructivelyAddElementToBeginningOfArray() {
+  
+}
